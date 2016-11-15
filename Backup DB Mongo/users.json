@@ -1,0 +1,34 @@
+{ 
+    "_id" : ObjectId("58266f0dead3d5b822e1b405"), 
+    "salt" : "VrKipN1K5Ux643BVnPTVhw==", 
+    "displayName" : "fadel khairi", 
+    "provider" : "local", 
+    "username" : "fadelkhairi", 
+    "created" : ISODate("2016-11-12T01:23:25.560+0000"), 
+    "roles" : [
+        "admin"
+    ], 
+    "profileImageURL" : "modules/users/client/img/profile/default.png", 
+    "password" : "pPtlwvGN0rYhHIUz9cmgItKKpdHR5y1wHTd+DFGHoR1IuS2+BPEWQrrjnH+om7xIudmZV4vMPbQRCzWwOA23OA==", 
+    "email" : "fadel.jtk12@gmail.com", 
+    "lastName" : "khairi", 
+    "firstName" : "fadel", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58281a833540c6302b6edf20"), 
+    "salt" : "+OAxZHkF6Si1gIsqmFbf8w==", 
+    "displayName" : "budi handoko", 
+    "provider" : "local", 
+    "username" : "budi", 
+    "created" : ISODate("2016-11-13T07:47:15.705+0000"), 
+    "roles" : [
+        "user"
+    ], 
+    "profileImageURL" : "modules/users/client/img/profile/default.png", 
+    "password" : "UDu+mC0g4W/1g86DMiJIy/jmpZRNoVwiGaISuL4yMGhLDKbLKee27kE9V0qGDUF5j4woqBnr+6UiHinTVM8bwQ==", 
+    "email" : "budi@test.com", 
+    "lastName" : "handoko", 
+    "firstName" : "budi", 
+    "__v" : NumberInt(0)
+}
